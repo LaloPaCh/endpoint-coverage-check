@@ -1,0 +1,5 @@
+asset_id,agent_status,result,reason
+lab-linux-01,disconnected,FAIL,Agent reported disconnected
+lab-linux-02,unknown,INCONCLUSIVE,Unrecognized or empty agent status
+lab-win-01,active,PASS,Agent reported active
+lab-win-02,missing,FAIL,No matching agent record
